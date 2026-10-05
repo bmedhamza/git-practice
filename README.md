@@ -7,3 +7,7 @@ This repository is for learning git and github
 - learn git fundamentals
 - learn github
 - practice collaboration
+
+## Remote Practice
+
+This line was added directly from github
