@@ -11,3 +11,7 @@ This repository is for learning git and github
 ## Remote Practice
 
 This line was added directly from github
+
+## Pull Practice
+
+This section will be downloaded using git pull
